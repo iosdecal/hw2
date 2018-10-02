@@ -1,7 +1,7 @@
 # HW2: Hangman #
 
 ## due ##
-Monday, October 1st at 11:59pm 
+Wednesday, October 3rd at 11:59pm 
 
 ## overview ##
 In this project, you will be making an iOS application for the Hangman game. Users should be able to:
@@ -63,9 +63,7 @@ If you complete all of the required features you will get full credit. We will d
 - hw2 folder and contents
 - a simulator screenshot of your app (on any orientation / device). Include this in your hw2 folder.
 
-To submit, add your hw2 folder to a private repository (if you don't have free private repositories, get them here with the [github student developer pack](https://education.github.com/pack)). If you're new to GitHub, you can find detailed instructions on how to add your assignment to a repo [here](http://iosdecal.com/other_files/submission_instructions.pdf).
-
-Using your private repository, submit your assignment to [Gradescope](https://www.gradescope.com). Please test that you uploaded correctly by downloading your submission, and testing that downloaded version in Xcode.
+Please submit by compressing your hw2 folder into a zip file and uploading this to Gradescope. 
 <!---
 ## 🔥 Autograder 🔥 ##
 ![Autograder gif](./README-images/autograder.gif)
